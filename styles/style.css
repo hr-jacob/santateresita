@@ -210,6 +210,12 @@ main .texto h1 {
     line-height: 1.4; /
 }
 
+.bloque h1 {
+    color: rgb(121, 77, 46);
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+}
+
 /* Text */
 .name { font-weight: 700; margin-top: 10px; color: rgb(121, 77, 46); }
 .description { font-size: .95rem; color: rgb(121, 77, 46); }
